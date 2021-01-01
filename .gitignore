@@ -1,3 +1,20 @@
+# Custom
+*/target
+*/.settings
+*/.classpath
+*/.project
+*/.svn
+*/.idea
+*/logs
+*/log
+target
+.settings
+.classpath
+.project
+.svn
+.idea
+.iml
+
 # Compiled class file
 *.class
 
